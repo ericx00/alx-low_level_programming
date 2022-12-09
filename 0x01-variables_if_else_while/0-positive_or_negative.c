@@ -15,6 +15,8 @@ int main(void)
 	}
 	if (n<0){
 		printf("is negative""/n")
-	}else{printf("is zero""/n")}
+	}
+	if (n=0)
+		{printf("is zero""/n")}
 	return (0);
 }

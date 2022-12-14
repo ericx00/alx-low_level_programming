@@ -1,6 +1,12 @@
-#include<stdio.h>
+#include "main.h"
 
-int main(){
-	printf("%s _putchar /n");
-};
+/**
+*main - function prints text as output
+*
+*Return:return 0
+*/
+int main(void)
+{putchar("_putchar");
+	putchar("/n");
+}
 return 0;

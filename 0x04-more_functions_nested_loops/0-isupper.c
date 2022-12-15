@@ -2,8 +2,8 @@
 
 /**
  *_isupper - checks whether a  character is a digit or not
- *@c: tested character
- *Return: 1 whether it is, 0 otherwise
+ *@c : tested character
+ *Return : 1 whether it is, 0 otherwise
  */
 
 int _isupper(int c)
@@ -14,5 +14,4 @@ int _isupper(int c)
 	}
 
 	return (0);
-
 }
